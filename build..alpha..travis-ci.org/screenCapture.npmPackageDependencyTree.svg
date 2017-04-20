@@ -6,8 +6,8 @@
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">├── async@0.2.10</tspan>
 <tspan x="10" y="90">├── errno@0.0.5</tspan>
-<tspan x="10" y="106">├── xregexp@2.0.0</tspan>
-<tspan x="10" y="122">├── archy@0.0.2</tspan>
+<tspan x="10" y="106">├── archy@0.0.2</tspan>
+<tspan x="10" y="122">├── xregexp@2.0.0</tspan>
 <tspan x="10" y="138">├── semver@2.2.1</tspan>
 <tspan x="10" y="154">├── mu2@0.5.21</tspan>
 <tspan x="10" y="170">├── glob@3.2.11 (inherits@2.0.3, minimatch@0.3.0)</tspan>
